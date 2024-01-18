@@ -7,7 +7,7 @@ from simulationFlaskED import run
 import numpy as np
 import os
 from utils.inputs import read_parameters
-
+#sophie test 2
 # Variables to decide outputs
 scenario_name = "Check"
 overwrite_scenario = True
