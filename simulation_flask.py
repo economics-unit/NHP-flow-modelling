@@ -29,7 +29,7 @@ from utils.inputs import read_parameters
 # of assigning global variables
 # The scenario name for users of UI for now is generic so it will alway overwrite itself, unless made unique.
 
-
+#Sophie testing code.
 class Object_global(object):
     def __init__(self):
         self.scenario_name = "UI_Trial"
