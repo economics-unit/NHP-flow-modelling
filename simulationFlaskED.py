@@ -18,6 +18,17 @@
 
 # */
 
+# /*
+
+# Subsequent contributors to the code include:
+
+# Health Economics Unit (HEU): David Sgorbati, Joseph Lillington, Javier Igea, Santosh Kumar, Sophie Hodges.
+# DHSC - UEC team: Janos Suto, Lucy Palmer, Matthew Lyth, David Green, Tracey Congdon, Ana-Maria Taradaciuc, Cameron Rose
+
+# Acknowledgement should be given to all contributors when further developing the code.
+
+# */
+
 # Import modules
 import utils.producePDF as producePDF
 import simpy
